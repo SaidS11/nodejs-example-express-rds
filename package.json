@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-example-express-rds",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "async": "^3.2.4",
+    "body-parser": "^1.20.1",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "errorhandler": "^1.5.1",
+    "express": "4.18.2",
+    "jade": "1.11.0",
+    "method-override": "^3.0.0",
+    "morgan": "^1.10.0",
+    "mysql": "2.18.1",
+    "node-uuid": "^1.4.8",
+    "pg": "^8.11.3"
+  }
+}
